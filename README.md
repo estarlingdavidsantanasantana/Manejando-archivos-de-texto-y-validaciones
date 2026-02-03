@@ -26,7 +26,7 @@ validar cada uno de los campos ingresados y posteriormente almacenar esta inform
 <h2> Evidencias del funcionamiento </h2>
 
 <p><strong>✔ Validación de salario incorrecto</strong></p>
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000ffa071f59f74a3fbd5a30d2d&ts=491710&p=fs&cid=1&sig=465ab0d1d03e299d2b2ec0259cdbab9d9ae92a026fde71bd90259451cfb6cbf1&v=0" width="600"/>
+<img src="https://github.com/estarlingdavidsantanasantana/Manejando-archivos-de-texto-y-validaciones/blob/master/Captura%20de%20pantalla%202026-02-03%20184405.png" width="600"/>
 
 <p><strong>✔ Validación de teléfono inválido </strong></p>
 <img src="img/telefono_invalido.png" width="600"/>
