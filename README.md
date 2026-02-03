@@ -29,7 +29,7 @@ validar cada uno de los campos ingresados y posteriormente almacenar esta inform
 <img src="https://github.com/estarlingdavidsantanasantana/Manejando-archivos-de-texto-y-validaciones/blob/master/Captura%20de%20pantalla%202026-02-03%20184405.png" width="600"/>
 
 <p><strong>✔ Validación de teléfono inválido </strong></p>
-<img src="" width="600"/>
+<img src="https://github.com/estarlingdavidsantanasantana/Manejando-archivos-de-texto-y-validaciones/blob/master/Captura%20de%20pantalla%202026-02-03%20184242.png" width="600"/>
 
 <p><strong>✔ Validación de email inválido</strong></p>
 <img src="img/email_invalido.png" width="600"/>
