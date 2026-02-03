@@ -37,7 +37,7 @@ validar cada uno de los campos ingresados y posteriormente almacenar esta inform
 <p><strong>✔ Datos guardados correctamente</strong></p>
 <img src="https://github.com/estarlingdavidsantanasantana/Manejando-archivos-de-texto-y-validaciones/blob/master/Captura%20de%20pantalla%202026-02-03%20184405.png"width="600"/>
 
-<h2>🔗 Enlace al proyecto</h2>
+<h2>🔗 Clonar el Repositorio</h2>
 <p>
 <a href="https://github.com/estarlingdavidsantanasantana/Manejando-archivos-de-texto-y-validaciones/tree/master?tab=readme-ov-file" target="_blank">
 Ver el proyecto en GitHub
