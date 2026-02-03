@@ -35,7 +35,7 @@ validar cada uno de los campos ingresados y posteriormente almacenar esta inform
 <img src="https://github.com/estarlingdavidsantanasantana/Manejando-archivos-de-texto-y-validaciones/blob/master/Captura%20de%20pantalla%202026-02-03%20184405.png" width="600"/>
 
 <p><strong>✔ Datos guardados correctamente</strong></p>
-<img src="="600"/>
+<img src="https://github.com/estarlingdavidsantanasantana/Manejando-archivos-de-texto-y-validaciones/blob/master/Captura%20de%20pantalla%202026-02-03%20184405.png"width="600"/>
 
 <h2>🔗 Enlace al proyecto</h2>
 <p>
